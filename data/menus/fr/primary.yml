@@ -9,13 +9,13 @@ items:
   children:
   - title: Graphisme
     slug: graphisme
-    target: https://remi-candon.institutd.osuny.site/projects_categories/graphisme/
+    target: https://remi-candon.institutd.osuny.site/projets/graphisme/
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
   descendants_targets:
-  - https://remi-candon.institutd.osuny.site/projects_categories/graphisme/
+  - https://remi-candon.institutd.osuny.site/projets/graphisme/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: À propos
