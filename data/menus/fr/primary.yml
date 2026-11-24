@@ -1,13 +1,49 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  slug: projets
+- title: Mes Projets
+  slug: mes-projets
   target: "/projets/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Graphisme
+    slug: graphisme
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Biomimétisme
+    slug: biomimetisme
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Vidéo
+    slug: video
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Photo
+    slug: photo
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Médiation Scientifique
+    slug: mediation-scientifique
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: À propos
@@ -19,4 +55,11 @@ items:
   descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
+- title: Mes Références
+  slug: mes-references
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
