@@ -59,4 +59,13 @@ items:
   descendants_targets: []
   path: "/pages/pistez-moi"
   file: content/fr/pages/pistez-moi/_index.html
+- title: Ielles me font confiance
+  slug: ielles-me-font-confiance
+  target: "/ielles-me-font-confiance/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/ielles-me-font-confiance"
+  file: content/fr/pages/ielles-me-font-confiance/_index.html
 
