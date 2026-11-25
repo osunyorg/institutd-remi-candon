@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Moi c'est
+- title: Moi c'est...
   slug: moi-c-est
   target: "/moi-c-est/"
   kind: page
