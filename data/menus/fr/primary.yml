@@ -16,7 +16,7 @@ items:
   children:
   - title: Graphisme
     slug: graphisme
-    target: https://remi-candon.institutd.osuny.site/projets/graphisme/
+    target: "/projets/graphisme/"
     kind: url
     new_tab: false
     children: []
@@ -36,9 +36,9 @@ items:
     children: []
     descendants_targets: []
   descendants_targets:
+  - "/projets/graphisme/"
   - https://remi-candon.institutd.osuny.site/projects_categories/edition/
   - https://remi-candon.institutd.osuny.site/projects_categories/rebranding/
-  - https://remi-candon.institutd.osuny.site/projets/graphisme/
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Mes Références
