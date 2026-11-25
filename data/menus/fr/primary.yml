@@ -18,8 +18,8 @@ items:
   - https://remi-candon.institutd.osuny.site/projets/graphisme/
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: À propos
-  slug: a-propos
+- title: Moi c'est
+  slug: moi-c-est
   target: "/a-propos/"
   kind: page
   new_tab: false
