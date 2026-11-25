@@ -1,15 +1,13 @@
 ---
 title: Menu principal
 items:
-- title: Moi c'est...
+- title: Moi c'est
   slug: moi-c-est
-  target: "/moi-c-est/"
-  kind: page
+  target: "/personnes/remi-candon/"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/moi-c-est"
-  file: content/fr/pages/moi-c-est/_index.html
 - title: Mes Projets
   slug: mes-projets
   target: "/projets/"
